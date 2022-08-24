@@ -1,0 +1,9 @@
+{
+	"scripts": {
+		"minify": "minify syncTakingRoot.js > syncTakingRoot.min.js"
+	},
+	"devDependencies": {
+		"minify": "^9.1.0"
+	}
+}
+
