@@ -10,3 +10,7 @@ Add a new page in your bookmarks, add "javascript:" to its url, and then copy pa
 Then clicking on the bookmark should either jump to the right video, or if you're already on it, change the timestamp to the right time.
 
 ![screenshot](EditBookmark.png?raw=true)
+
+# Issues
+Bookmarklets won't execute one Google Chrome's "New Tab" page, so either open the bookmark in a new tab/window, or open a new tab first and then click on the bookmark.
+https://stackoverflow.com/a/56794455/2692695
